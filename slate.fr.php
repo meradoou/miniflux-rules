@@ -29,7 +29,8 @@ return array(
                 '//footer',
                 '//aside',
                 '//*[contains(@class, "sentence-author")]',
-                '//*[contains(@class, "authors")]'
+                '//*[contains(@class, "authors")]',
+                '//*[contains(@class, "tag")]'
             )                     
         ),
     ),
