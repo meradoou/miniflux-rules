@@ -15,7 +15,10 @@ return array(
                 '//*[contains(@class, "num-linked-startup")]',
                 '//span[contains(@class, "summary-entry")]',
                 '//footer',
-                '//script'
+                '//script',
+                '//form',
+                '//style',
+                '//*[@id="bottom_ad"]
             )
         ),
     ),
