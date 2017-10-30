@@ -18,7 +18,7 @@ return array(
                 '//script',
                 '//form',
                 '//style',
-                '//*[@id="bottom_ad"]
+                '//*[@id="bottom_ad"]'
             )
         ),
     ),
