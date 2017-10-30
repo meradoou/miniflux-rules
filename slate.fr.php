@@ -30,7 +30,8 @@ return array(
                 '//aside',
                 '//*[contains(@class, "sentence-author")]',
                 '//*[contains(@class, "authors")]',
-                '//*[contains(@class, "tag")]'
+                '//*[contains(@class, "tag")]',
+                '//*[contains(@class, "category")]'
             )                     
         ),
     ),
