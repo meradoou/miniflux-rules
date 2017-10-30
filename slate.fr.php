@@ -27,7 +27,9 @@ return array(
                 '//*[@id="ligatus_slate_smartbox"]',
                 '//*[@id="add_ads"]',
                 '//footer',
-                '//aside'
+                '//aside',
+                '//*[contains(@class, "sentence-author")]',
+                '//*[contains(@class, "authors")]'
             )                     
         ),
     ),
